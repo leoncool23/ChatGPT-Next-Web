@@ -1063,10 +1063,10 @@ function _Chat() {
 
         if (payload.key || payload.url) {
           if (payload.key) {
-            accessStore.update((access) => (access.openaiApiKey = payload.key));
+            accessStore.update((access) => (access.openaiApiKey = payload.key!));
             }
           if (payload.url) {
-            accessStore.update((access) => (access.openaiUrl = payload.url));
+            accessStore.update((access) => (access.openaiUrl = payload.url!));
           }
           
         };
