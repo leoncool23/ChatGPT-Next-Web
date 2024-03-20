@@ -106,8 +106,7 @@ export const CN_MASKS: BuiltinMask[] = [
         id: "work-0",
         role: "user",
         content:
-          "Act as an English grammar tutor, help me ensure the grammar and the spelling is correct. Do not try to polish the text, if no mistake is found, tell me that this paragraph is good. If you find grammar or spelling mistakes, please list mistakes you find in a two-column markdown table, put the original text the first column, put the corrected text in the second column and highlight the key words you fixed.
-Below is a paragraph from an academic paper. You need to report all grammar and spelling mistakes as the example before.",
+          "Act as an English grammar tutor, help me ensure the grammar and the spelling is correct. Do not try to polish the text, if no mistake is found, tell me that this paragraph is good. If you find grammar or spelling mistakes, please list mistakes you find in a two-column markdown table, put the original text the first column, put the corrected text in the second column and highlight the key words you fixed.Below is a paragraph from an academic paper. You need to report all grammar and spelling mistakes as the example before.",
         date: "",
       },
     ],
