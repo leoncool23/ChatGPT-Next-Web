@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          赛亚AI科研助手
+          赛罗AI科研GPT（ZeroGPT）
         </div>
         <div className={styles["sidebar-sub-title"]}>
         本GPT公益站由科研之心（https://ai.linkagi.top）提供，主要为AI教学实践使用，更稳定服务请到科研之心官网选择付费服务。
