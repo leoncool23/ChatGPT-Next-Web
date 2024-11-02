@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           赛亚AI科研助手
         </div>
         <div className={styles["sidebar-sub-title"]}>
-        SciYield AI，你的AI科研助手
+        本公益站由科研之心（https://ai.linkagi.top）提供
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
